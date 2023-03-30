@@ -29,7 +29,6 @@ require (
 	github.com/hexops/gotextdiff v1.0.3
 	github.com/homeport/dyff v1.4.5
 	github.com/kardianos/osext v0.0.0-20190222173326-2bc1f35cddc0
-	github.com/kr/pretty v0.2.0 // indirect
 	github.com/lib/pq v1.1.1
 	github.com/mattn/go-colorable v0.1.8
 	github.com/mgutz/ansi v0.0.0-20170206155736-9520e82c474b
@@ -38,11 +37,11 @@ require (
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/onsi/ginkgo v1.16.4
 	github.com/onsi/gomega v1.16.0
-	github.com/opencontainers/runc v1.0.0-rc93 // indirect
+	github.com/opencontainers/runc v1.1.5 // indirect
 	github.com/ory/dockertest/v3 v3.6.3
 	github.com/parnurzeal/gorequest v0.2.16
 	github.com/pkg/errors v0.9.1
-	github.com/sirupsen/logrus v1.7.0
+	github.com/sirupsen/logrus v1.8.1
 	github.com/skratchdot/open-golang v0.0.0-20190402232053-79abb63cd66e
 	github.com/spf13/afero v1.6.0
 	github.com/spf13/cobra v1.2.1
